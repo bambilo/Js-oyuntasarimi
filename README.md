@@ -33,4 +33,10 @@ HTML5 Canvas ile hazırlanmış basit bir refleks oyunudur.
 *   Çekiç Görseli: Yapay zeka kullanılarak üretilmiştir.
 *   Ses Efektleri (Çekiç ve Müzik): [https://freesound.org/people/HlySound/sounds/847444/] [https://freesound.org/people/Michael-DB/sounds/489035/]
 
+**Oyun İçi Görünüm:**
+![Oyun İçi Görüntü](1.png)
+
+**Oyun Sonu Ekranı:**
+![Oyun Bitti Ekranı](2.png)
+
  **[Oyunu denemek için tıklayınız!](https://bambilo.github.io/Js-oyuntasarimi/)**

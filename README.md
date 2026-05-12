@@ -10,7 +10,7 @@ HTML5 Canvas ile hazırlanmış basit bir refleks oyunudur.
 *   **Seviye ve Zorluk Sistemi:** İlerleme barı dolduğunda ve seviye atlandığında, hedeflerin ekrana gelme aralıkları ve ekranda kalma süreleri %10 oranında kısaltılarak oyun dinamik olarak zorlaştırılır.
 *   **Ödül Mekanizması:** Oyuncuyu motive etmek amacıyla her seviye atlandığında ekranda görsel bir bildirim çıkar ve oyuncuya +1 Can verilir.
 *   **Dinamik Ses ve Müzik:** Vuruş anında çekiç sesi çalar. Ayrıca oyun boyunca çalan arka plan müziği, seviye atladıkça kademeli olarak hızlanır ve artan gerilimi oyuncuya yansıtır.
-*   **Zengin Arayüz (HUD):** Ekranın üst kısmında canlı olarak güncellenen Puan, Seviye, Kalp ikonlarıyla Can durumu ve bir sonraki seviyeye kalan puanı gösteren yeşil ilerleme barı bulunmaktadır.
+*   **Zengin Arayüz:** Ekranın üst kısmında canlı olarak güncellenen Puan, Seviye, Kalp ikonlarıyla Can durumu ve bir sonraki seviyeye kalan puanı gösteren yeşil ilerleme barı bulunmaktadır.
 
 2) Nasıl Oynanır?
 
@@ -19,7 +19,7 @@ HTML5 Canvas ile hazırlanmış basit bir refleks oyunudur.
 3.  Hedefin tam ortasına vurmaya çalışın. Merkeze vurmak daha fazla puan kazandırır.
 4.  Boşa tıklarsanız veya bir sincap vurulmadan süresi dolup ekrandan kaybolursa 1 Can kaybedersiniz.
 5.  Üstteki barı doldurduğunuzda seviye atlarsınız. Sincaplar çok daha hızlı çıkıp kaçmaya başlar, ancak her seviyede +1 Can kazanırsınız.
-6.  Canınız sıfırlandığında "Oyun Bitti" ekranı gelir. Yeniden oynamak için klavyeden `R` tuşuna basmanız yeterlidir.
+6.  Canınız sıfırlandığında "Oyun Bitti" ekranı gelir. Yeniden oynamak için klavyeden R tuşuna basmanız yeterlidir.
 
 3) Proje Detayları ve Kaynaklar
 * Esinlenilen Oyun: Killover 

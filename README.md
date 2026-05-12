@@ -22,9 +22,9 @@ HTML5 Canvas ile hazırlanmış basit bir refleks oyunudur.
 6.  Canınız sıfırlandığında "Oyun Bitti" ekranı gelir. Yeniden oynamak için klavyeden `R` tuşuna basmanız yeterlidir.
 
 3) Proje Detayları ve Kaynaklar
-   Esinlenilen Oyun: Killover 
-   Oyunun Bağlantısı: https://quentindelvallet.itch.io/killover
-   (Not: Geliştirilen bu projede Killover oyununun sadece 'hızlanarak artan refleks testi' ve 'süreli hedef' mekaniği örnek alınmıştır)
+* Esinlenilen Oyun: Killover 
+* Oyunun Bağlantısı: https://quentindelvallet.itch.io/killover
+* (Not: Geliştirilen bu projede Killover oyununun sadece 'hızlanarak artan refleks testi' ve 'süreli hedef' mekaniği örnek alınmıştır)
    
 4) Kullanılan Asset Kaynakları:
    
